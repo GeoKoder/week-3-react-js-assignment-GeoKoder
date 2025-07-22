@@ -133,9 +133,9 @@ This application can be easily deployed to Vercel, Netlify, or GitHub Pages.
 
 ## Live Demo
 
-> Replace the URL below with your deployed application's URL after deployment.
+> This is my website's live demo.
 
-**Live URL:** [https://your-deployment-url.com](https://your-deployment-url.com)
+**Live URL:** [https://task-manager-geokoder.vercel.app/](https://task-manager-geokoder.vercel.app/)
 
 ---
 
